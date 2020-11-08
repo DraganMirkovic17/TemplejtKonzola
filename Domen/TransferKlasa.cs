@@ -14,7 +14,8 @@ namespace Domen
         public Operacije Operacija;
         public Object TransferObjekat;
         public Object Rezultat;
-
+        //
+        //
 
     }
 }
