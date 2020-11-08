@@ -10,6 +10,7 @@ namespace Domen
     [Serializable]
     public class TransferKlasa
     {
+        //
         public Operacije Operacija;
         public Object TransferObjekat;
         public Object Rezultat;
